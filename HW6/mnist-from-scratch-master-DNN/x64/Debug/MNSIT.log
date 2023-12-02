@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\jabir\Downloads\mnist-from-scratch-master\mnist-from-scratch-master\main.c(22,10): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+  MNSIT.vcxproj -> C:\Users\jabir\Downloads\mnist-from-scratch-master\mnist-from-scratch-master\x64\Debug\MNSIT.exe

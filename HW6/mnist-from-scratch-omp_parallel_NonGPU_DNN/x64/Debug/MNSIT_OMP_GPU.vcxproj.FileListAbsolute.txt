@@ -1,0 +1,1 @@
+C:\Users\jabir\Downloads\mnist-from-scratch-omp_parallel_GPU\mnist-from-scratch-omp_parallel\x64\Debug\MNSIT_OMP_GPU.exe
