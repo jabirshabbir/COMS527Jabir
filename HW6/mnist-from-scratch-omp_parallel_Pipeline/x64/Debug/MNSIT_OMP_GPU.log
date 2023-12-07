@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MNSIT_OPENMP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(166,37): warning C4113: 'int (__cdecl *)(int)' differs in parameter lists from 'void *(__cdecl *)(void *)'
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(166,37): warning C4047: 'function': 'void *(__cdecl *)(void *)' differs in levels of indirection from 'int (__cdecl *)(int)'
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(166,37): warning C4022: 'pthread_create': pointer mismatch for actual parameter 3
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(166,47): warning C4022: 'pthread_create': pointer mismatch for actual parameter 4
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(167,37): warning C4113: 'int (__cdecl *)(int)' differs in parameter lists from 'void *(__cdecl *)(void *)'
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(167,37): warning C4047: 'function': 'void *(__cdecl *)(void *)' differs in levels of indirection from 'int (__cdecl *)(int)'
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(167,37): warning C4022: 'pthread_create': pointer mismatch for actual parameter 3
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\main.c(167,47): warning C4022: 'pthread_create': pointer mismatch for actual parameter 4
+  MNSIT_OMP_GPU.vcxproj -> C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\x64\Debug\MNSIT_OMP_GPU.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

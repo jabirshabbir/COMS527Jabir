@@ -1,0 +1,4 @@
+C:\Users\jabir\Downloads\mnist-from-scratch-omp_parallel_GPU\mnist-from-scratch-omp_parallel\x64\Debug\MNSIT_OMP_GPU.exe
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\x64\Debug\MNSIT_OMP_GPU.exe
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\x64\Debug\MNSIT_OMP_GPU.vcxproj.CopyComplete
+C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN - Copy\x64\Debug\pthreadVC3d.dll

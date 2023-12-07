@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\jabir\Downloads\mnist-from-scratch-omp_parallel_GPU\mnist-from-scratch-omp_parallel\x64\Debug\MNSIT_OMP_GPU.exe</FullPath>
+      <FullPath>C:\Users\jabir\OneDrive\Documents\Framework\COMS527Jabir\HW6\mnist-from-scratch-omp_parallel_NonGPU_DNN\x64\Debug\MNSIT_OMP_GPU.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
